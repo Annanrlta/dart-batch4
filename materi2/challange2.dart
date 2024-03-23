@@ -31,5 +31,4 @@ void main(){
   print("Tipe data Core = " + core.runtimeType.toString());
   print("Tipe data Thread = " + thread.runtimeType.toString());
   print("Tipe data Speed = " + speed.runtimeType.toString());
-
-}
+} 
