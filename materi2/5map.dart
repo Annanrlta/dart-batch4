@@ -38,5 +38,5 @@ void main() {
   nilai["MTK "] = 78;
   print(nilai); //mencetak full map pada variable nilai
   print("B.ing after : ${nilai["B.Ing "]} ");
-  print("B.ing after : ${nilai["B.Ing "] = 88 } "); //mengubah nilai pada key tertentu langsung di dalam fungsi
+  print("B.ing after : ${nilai["B.Ing "] = 88 } "); //mengubah nilai pada key tertentu langsung di dalam fungsi print()
 }
