@@ -66,7 +66,7 @@ num lSTiga (num a, num t) {
     return l;
   }
 
- //===============================
+
 
   //keliling persegi
   num kPersegi (num s) {
